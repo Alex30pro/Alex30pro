@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/alex-andryo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/Alex30pro/Alex30pro/output/github-contribution-grid-snake-dark.svg)
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quantico&weight=700&size=35&duration=4000&pause=1000&color=00A3F1&center=true&vCenter=true&random=false&width=500&height=70&lines=Obrigado+pela+aten%C3%A7%C3%A3o!" alt="Typing SVG" />
 </h1>
